@@ -6,3 +6,5 @@
 with open("names.txt", "r") as f:
 	f.seek(15)
 	print(f.read())
+
+print('Bye')
